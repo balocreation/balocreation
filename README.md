@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a positive and enthusiastic frontend engineer, who over the years has built up a diverse range of skills. I have extensive experience working both alone and as part of a team on often time-sensitive, challenging blockchain development and web applications that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms.
+
 <!--
 **balocreation/balocreation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
